@@ -30,7 +30,7 @@ This code will load NovaStrategyApp from package vnpy_novastrategy.
    Suggest to use the okx "Demo trading" mode to create api.
 
 
-3. Run the example code and "Connect Gateway" in the Home Page.
+3. Run the example code and click "Connect Gateway" in the Home Page.
 
    Need input okx api informations.
 

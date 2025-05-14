@@ -50,6 +50,7 @@ This code will load NovaStrategyApp from package vnpy_novastrategy.
    You can search the vt_symbol in the "Find Contract" Menu.
 
 
+
    Need input the trade_size.
 
       Default 0.01.  In this code, trade order will be sumbitted with a amount 0.01.
